@@ -605,3 +605,4 @@ export const ipaPhonemes: IPAPhoneme[] = [
     audioUrl: 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg',
   },
 ];
+export const ipaPhonemes = []
