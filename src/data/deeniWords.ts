@@ -381,3 +381,4 @@ export const deeniWords: DeeniWord[] = [
     source: "Siletz Dee-ni Online Talking Dictionary, Confederated Tribes of Siletz Indians (ed. A. Lane; Living Tongues Institute / Swarthmore College), entry #3250 (http://siletz.swarthmore.edu/?entry=3250)",
   },
 ];
+export const deeniWords = []
